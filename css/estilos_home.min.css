@@ -75,14 +75,14 @@ nav ul li a:hover{
 /**
 contenido
  */
-#main-content{
+.main-content{
     background: #FFFFFF;
     width: 90%;
     max-width: 900px;
     margin: 20px auto;
     box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
-#main-content .content{
+.main-content .content{
     padding: 40px;
 }
 
